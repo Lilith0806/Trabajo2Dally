@@ -1,0 +1,73 @@
+#Padregrande{
+    Height: 500px;
+    width: 100%;
+
+    background-color:darkslateblue;
+    margin: 20px;
+    border-radius: 10px;
+    align-content: center;
+    text-align: center;
+}
+
+#PadreA{
+Height: 35%;
+width: 97%;
+
+background-color:rgb(255, 202, 244);
+border-radius: 15px;
+margin: 20px;
+align-content: center;
+}
+
+.CajaA{
+    Height: 90%;
+    Width: 98%;  
+    
+    background-color:rgb(153, 223, 255);
+    margin: 5px;
+    border-radius: 15px;
+    align-content: center;
+}
+
+#PadreB-H{
+    Height: 55%;
+    width: 97%;
+    
+    background-color:rgb(255, 202, 244);
+    border-radius: 15px;
+    margin: 15px;
+    display: flex;
+    
+}
+
+#PadreB-G{
+Height: 55%;
+width: 55%;
+
+background-color:rgb(255, 202, 244);
+border-radius: 15px;
+margin: 15px;
+
+display: flex;
+flex-wrap: wrap;
+}
+
+.CajaB-G{
+    Height: 73%;
+    Width: 30%;  
+    
+    background-color:rgb(153, 223, 255);
+    margin: 5px;
+    border-radius: 15px;
+    align-content: center;
+}
+
+.CajaH{
+    Height: 84%;
+    Width: 42%;  
+    
+    background-color:rgb(153, 223, 255);
+    margin-top: 18px;
+    border-radius: 15px;
+    align-content: center;
+}
